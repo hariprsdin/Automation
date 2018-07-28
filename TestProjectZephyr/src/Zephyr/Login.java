@@ -14,7 +14,7 @@ public void login() throws Exception
     WebDriver driver = new FirefoxDriver();
 	driver.get("http://teammigrate:18080");
 	System.out.println("Welcome to Jenkins");
-	Thread.sleep(3000);
+	Thread.sleep(2000);
 	
 	}
 

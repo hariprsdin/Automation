@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="TestProjectZephyr/src"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="TestProjectZephyr/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="TestProjectZephyr/bin"/>
+</classpath>
